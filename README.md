@@ -6,5 +6,5 @@ A project based on the React project in Ben Mead's React course availaible on Ud
 
 The user inputs a task in the input field and then submits to the list. They can also remove and add new items if they wish to.  
 
-##Under The Hood
+## Under The Hood
 This app was built with React, React Modal, SCSS, and webpack.
